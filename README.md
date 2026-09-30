@@ -54,9 +54,19 @@ Current release:
 
     @nurexenlabs/safegate-sdk@0.3.0
 
-## Main Technical Repository
+## Public Review Repositories
 
-https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome
+### X-Agent Commerce Outcome
+
+Public-safe verifier source used for external review:
+
+https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome-public
+
+### Hackathon Public Review Archive
+
+Commit-pinned review source for SafeGate ETHOnline 2026 and Colosseum 2026 work:
+
+https://github.com/Nurexen-Labs/safegate-hackathon-public-review
 
 ## Historical Engineering Archive
 
@@ -68,7 +78,7 @@ https://github.com/Nurexen-Labs/safegate-labs-public
 
 - Website: https://safegatelabs.xyz
 - npm: https://www.npmjs.com/package/@nurexenlabs/safegate-sdk
-- SDK Release: https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome/releases/tag/sdk-v0.3.0
+- SDK Release: https://www.npmjs.com/package/@nurexenlabs/safegate-sdk/v/0.3.0
 - X: https://x.com/NurexenLabs
 - LinkedIn: https://www.linkedin.com/in/rahmi-%C3%B6zal-aa2ab03a8
 
